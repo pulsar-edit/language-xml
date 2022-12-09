@@ -1,3 +1,5 @@
+# This Repo is now Archived under Pulsar-Edit because it is bundled with the [editor](https://github.com/pulsar-edit/pulsar/tree/master/packages#core-packages).
+
 # XML language support in Atom
 [![CI](https://github.com/atom/language-xml/actions/workflows/ci.yml/badge.svg)](https://github.com/atom/language-xml/actions/workflows/ci.yml)
 
